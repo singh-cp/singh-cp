@@ -1,8 +1,7 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chandra%20Prakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandraprakash2709/)](https://www.linkedin.com/in/chandraprakash2709/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18825305/chandra-prakash-singh)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Chandra%20Prakash-yellow)](https://stackoverflow.com/users/18825305/chandra-prakash-singh)
 
 I'm
 Full Stack Solution Architect
