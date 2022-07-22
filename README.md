@@ -1,3 +1,4 @@
+[![MaterHead](https://cdn.dribbble.com/users/1931558/screenshots/6471342/rsponsive1.gif)](https://github.com/singh-cp)
 <h1 align="center">Hi 👋, I'm Chandra Prakash Singh</h1>
 <h3 align="center">Business Development to Full Stack Development.</h3>
 
@@ -8,9 +9,9 @@
 
 <p align="left">I'm a Full Stack Developer, passionate about tech and travel. The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (ReactJs, Django, HTML5, CSS3, Javascript, Bootstrap, Responsive, UX), database(MongoDB, Mysql), design (working closely with designers).</p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning: **React**
 
-- 💬 Ask me about **JavaScript, Python, CSS**
+- 💬 Ask me about: **JavaScript, Python, CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
