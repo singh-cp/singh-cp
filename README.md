@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chandra Prakash Singh</h1>
 <h3 align="center">Business Development to Full Stack Development.</h3>
 
-<img align="right" padding="20px" alt="coding" max-width="400" height="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
+<img align="right" padding="20px" alt="coding" max-width="300" height="300" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 **Profile Count**
 >
