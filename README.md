@@ -1,11 +1,11 @@
-[![MaterHead](https://cdn.dribbble.com/users/1931558/screenshots/6471342/rsponsive1.gif)](https://github.com/singh-cp)
 <h1 align="center">Hi 👋, I'm Chandra Prakash Singh</h1>
 <h3 align="center">Business Development to Full Stack Development.</h3>
 
 <img align="right" padding="20px" alt="coding" width="400" height="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
 **Profile Count**
-> <img src="https://profile-counter.glitch.me/singh-cp/count.svg" alt="singh-cp" />
+>
+<img src="https://profile-counter.glitch.me/singh-cp/count.svg" alt="singh-cp" />
 
 <p align="left">I'm a Full Stack Developer, passionate about tech and travel. The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), front-end development (ReactJs, Django, HTML5, CSS3, Javascript, Bootstrap, Responsive, UX), database(MongoDB, Mysql), design (working closely with designers).</p>
 
