@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-Chandra%20Prakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chandraprakash2709/)](https://www.linkedin.com/in/chandraprakash2709/)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Chandra%20Prakash-yellow)](https://stackoverflow.com/users/18825305/chandra-prakash-singh)
 
-I'm Full Stack Developer. The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,cassendra,Mysql).
+I'm Full Stack Developer. The crossover between design and programming has always been of interest to me. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (ReactJs, Django HTML5, CSS3, Javascript, Responsive, UX),database(MongoDB,Mysql).
 
 
 ![Visitor Count](https://profile-counter.glitch.me/singh-cp/count.svg)
